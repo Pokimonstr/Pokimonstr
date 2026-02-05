@@ -10,6 +10,6 @@
 [![](https://visitcount.itsvg.in/api?id=Pokimonstr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![animation gif](https://github.com/Pokimonstr/Pokimonstr/blob/output/animation.gif)
+![animation gif](https://github.com/Pokimonstr/Pokimonstr/blob/output/animation.mp4)
 ![snake gif](https://github.com/Pokimonstr/Pokimonstr/blob/output/github-snake-dark.svg)
 
